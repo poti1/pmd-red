@@ -88,6 +88,7 @@ Some tips before proceeding:
 
     ```bash
     sudo apt install build-essential binutils-arm-none-eabi git libpng-dev
+    sudo apt-get install gcc-arm-none-eabi
     ```
     <details>
         <summary><i>Note...</i></summary>
