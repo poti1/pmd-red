@@ -40,3 +40,5 @@ build/
 *.a
 .vscode/
 *.ss[0-9]
+!my_builds
+!my_builds/*.gba
