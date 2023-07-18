@@ -299,21 +299,22 @@
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "MT_CLEFT",
         "abilities": [
-            "ABILITY_BLAZE"
+            "ABILITY_FLASH_FIRE",
+            "ABILITY_NATURAL_CURE"
         ],
         "shadowSize": 2,
         "regenSpeed": 100,
         "canMove": true,
         "chanceAsleep": 8,
-        "baseHP": 58,
-        "expYield": 200,
+        "baseHP": 80,
+        "expYield": 10,
         "baseAtkSpAtk": [
-            12,
-            8
+            25,
+            25
         ],
         "baseDefSpDef": [
-            9,
-            10
+            20,
+            20
         ],
         "weight": 332,
         "size": 52,

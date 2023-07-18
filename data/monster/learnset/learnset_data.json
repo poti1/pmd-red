@@ -402,19 +402,23 @@
         "pokemon": "Charizard",
         "levelUpMoves": [
             {
-                "move": "MOVE_SMOKESCREEN",
-                "level": 1
-            },
-            {
-                "move": "MOVE_GROWL",
-                "level": 1
-            },
-            {
                 "move": "MOVE_HEAT_WAVE",
                 "level": 1
             },
             {
-                "move": "MOVE_SCRATCH",
+                "move": "MOVE_THUNDERBOLT",
+                "level": 1
+            },
+            {
+                "move": "MOVE_DRAGONBREATH",
+                "level": 1
+            },
+            {
+                "move": "MOVE_AGILITY",
+                "level": 1
+            },
+            {
+                "move": "MOVE_SMOKESCREEN",
                 "level": 1
             },
             {
