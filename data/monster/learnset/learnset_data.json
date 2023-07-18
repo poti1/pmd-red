@@ -422,6 +422,14 @@
                 "level": 1
             },
             {
+                "move": "MOVE_GROWL",
+                "level": 1
+            },
+            {
+                "move": "MOVE_SCRATCH",
+                "level": 1
+            },
+            {
                 "move": "MOVE_EMBER",
                 "level": 2
             },
