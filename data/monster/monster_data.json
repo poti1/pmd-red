@@ -300,7 +300,7 @@
         "friendArea": "MT_CLEFT",
         "abilities": [
             "ABILITY_FLASH_FIRE",
-            "ABILITY_NATURAL_CURE"
+            "ABILITY_SHED_SKIN"
         ],
         "shadowSize": 2,
         "regenSpeed": 100,
