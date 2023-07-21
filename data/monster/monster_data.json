@@ -299,7 +299,7 @@
         "movementType": "MOVEMENT_TYPE_LAVA",
         "friendArea": "MT_CLEFT",
         "abilities": [
-            "ABILITY_FLASH_FIRE",
+            "ABILITY_DROUGHT",
             "ABILITY_SHED_SKIN"
         ],
         "shadowSize": 2,
