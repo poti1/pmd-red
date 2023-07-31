@@ -368,7 +368,7 @@ int get_move_id(string move_macro) {
         move_macro_ids["MOVE_VOLT_TACKLE"] = 0x162;
         move_macro_ids["MOVE_WIDE_SLASH"] = 0x168;
         move_macro_ids["MOVE_VACUUM_CUT"] = 0x18A;
-     // move_macro_ids["MOVE_ONE_ROOM"] = 0x18F;
+        move_macro_ids["MOVE_ONE_ROOM"] = 0x18F;
     }
     if (move_macro_ids.count(move_macro))
     {
