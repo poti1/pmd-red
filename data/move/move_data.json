@@ -7686,7 +7686,7 @@
         "numberOfChainedHits": 1,
         "cannotHitFrozen": true,
         "rangeID": "MOVE_RANGE_FLOOR_2",
-        "description": "MoveDescriptionNull",
+        "description": "ItemDescriptionOneRoomOrb",
         "useText": "MoveUseTextUse"
     },
     {

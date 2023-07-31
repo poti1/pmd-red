@@ -415,7 +415,7 @@
 #define MOVE_ITEM_TOSS 0x198
 #define MOVE_SEE_STAIRS 0x199
 #define MOVE_LONG_TOSS 0x19A
-#define MOVE_ONE_ROOM_2 0x19B
+#define MOVE_MD1_2 0x19B // Unused
 #define MOVE_PIERCE 0x19C
 
 #endif
