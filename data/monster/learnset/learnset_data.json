@@ -414,11 +414,11 @@
                 "level": 1
             },
             {
-                "move": "MOVE_ANCIENTPOWER",
+                "move": "MOVE_AGILITY",
                 "level": 1
             },
             {
-                "move": "MOVE_EMBER",
+                "move": "MOVE_ONE_ROOM",
                 "level": 2
             },
             {

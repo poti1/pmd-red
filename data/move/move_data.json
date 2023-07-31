@@ -7678,7 +7678,7 @@
         "type": "TYPE_NONE",
         "targetingFlags": "0b0000000001110011",
         "aiTargetingFlags": "0b0000000000110000",
-        "basePP": 22,
+        "basePP": 99,
         "aiWeight": 8,
         "accuracy1": 125,
         "accuracy2": 100,
@@ -7686,7 +7686,7 @@
         "numberOfChainedHits": 1,
         "cannotHitFrozen": true,
         "rangeID": "MOVE_RANGE_FLOOR_2",
-        "description": "MoveDescriptionNull",
+        "description": "ItemDescriptionOneRoomOrb",
         "useText": "MoveUseTextUse"
     },
     {
